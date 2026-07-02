@@ -1,0 +1,6 @@
+{
+  "name": "حماية العائلات - دليل الوقاية من القوارض",
+  "description": "دليل تفاعلي شامل ومبسط لحماية العائلات من مخاطر القوارض والحد من انتشار الأمراض في المخيمات ومناطق النزوح.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
